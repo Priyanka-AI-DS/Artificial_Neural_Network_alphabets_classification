@@ -30,9 +30,8 @@ The dataset provided, "Alphabets_data.csv", consists of labeled data suitable fo
 ●	Systematic approach and thoroughness in hyperparameter tuning.
 ●	Depth of evaluation and discussion.
 ●	Overall quality of the report.
+
 #### Additional Resources
 ●	TensorFlow Documentation
 ●	Keras Documentation
 We wish you the best of luck with this assignment. Enjoy exploring the fascinating world of neural networks and the power of hyperparameter tuning!
-
-
